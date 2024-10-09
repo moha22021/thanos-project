@@ -24,4 +24,4 @@ The main objective of this project is to:
 ## How to Run the Project
 1. Clone the project repository to your local machine:
    ```bash
-   git clone https://github.com/username/thanos-project.git
+   git clone https://github.com/moha22021/thanos-project.git
